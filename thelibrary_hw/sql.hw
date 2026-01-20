@@ -151,4 +151,5 @@ FROM day_1_exam
 WHERE total_score >'30' AND total_score <'40'
 GROUP BY result_status
 
+
 Q20: Group by first letter of student name and show count and average score for each letter.
